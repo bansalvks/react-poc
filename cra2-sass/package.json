@@ -1,8 +1,9 @@
 {
-  "name": "scss-with-react-eject",
+  "name": "cra2-sass",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.9.4",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
